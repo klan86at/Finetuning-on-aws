@@ -33,7 +33,7 @@ vector_store = FAISS(
     index_to_docstore_id={}
 )
 
-# from langchain_core.documents import Document
+from langchain_core.documents import Document
 
 docs = [
     # --------- METFORMIN ----------
