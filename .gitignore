@@ -5,7 +5,25 @@ build/
 dist/
 wheels/
 *.egg-info
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # Virtual environments
 .venv
 .env
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+# uv.lock

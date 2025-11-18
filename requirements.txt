@@ -1,10 +1,10 @@
 transformers==4.44.2
-ipykernel
+ipykernel==7.1.0
 datasets==2.19.1
-accelerate
-sagemaker
-boto3
-pandas
+accelerate==1.11.0
+sagemaker==2.254.1
+boto3==1.40.70
+pandas==2.3.3
 cmake==3.27.0
 pyarrow==16.1.0
 bitsandbytes==0.43.3
